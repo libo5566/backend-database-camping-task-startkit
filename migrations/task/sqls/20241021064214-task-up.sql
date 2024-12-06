@@ -77,6 +77,7 @@ INSERT INTO "CREDIT_PURCHASE"(user_id, credit_package_id , purchased_credits,pri
 (select  price from "CREDIT_PACKAGE" where name='14 堂組合包方案')
 );
 
+
 -- ████████  █████   █    ████   
 --   █ █   ██    █  █         ██ 
 --   █ █████ ███ ███       ███   
